@@ -1,2 +1,2 @@
-# tedtest
-tedy17testing
+# TEDxLNMIIT
+Official website of TEDxLNMIIT-Beyond the Boundaries
